@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malek G. Ramadan</h1>
 <h3 align="center">A passionate junior developer from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malekgramadan&label=Profile%20views&color=0e75b6&style=flat" alt="malekgramadan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malekgramadan" alt="malekgramadan" /></a> </p>
-
 - 🌱 I’m currently learning **Python, HTML/CSS, JS, PHP, SQL**
 
 - 📫 How to reach me **mintywicked@gmail.com**
